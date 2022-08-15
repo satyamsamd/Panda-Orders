@@ -1,0 +1,2 @@
+# Panda-Orders
+The business-to-consumer aspect of product commerce (e-commerce) is the most visible business use of the World Wide Web. Core Idea of Project is to build an sample prototype E-Commerce Website for a business company with the help of HTML, CSS and JavaScript. The primary goal of an e-commerce site is to sell goods online. This project deals with developing an e-commerce website for Online Product Sale. It provides the user with a catalog of different product available for purchase in the store. 
